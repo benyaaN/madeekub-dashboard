@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/madeekub-dashboard/static/js/main.7203984e.js",
+    "main.js": "/madeekub-dashboard/static/js/main.83d39b8d.js",
     "index.html": "/madeekub-dashboard/index.html",
-    "main.7203984e.js.map": "/madeekub-dashboard/static/js/main.7203984e.js.map"
+    "main.83d39b8d.js.map": "/madeekub-dashboard/static/js/main.83d39b8d.js.map"
   },
   "entrypoints": [
-    "static/js/main.7203984e.js"
+    "static/js/main.83d39b8d.js"
   ]
 }
